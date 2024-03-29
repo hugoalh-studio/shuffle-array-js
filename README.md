@@ -1,4 +1,4 @@
-# Shuffle Array (NodeJS)
+# Shuffle Array (JavaScript)
 
 [⚖️ MIT](./LICENSE.md)
 
